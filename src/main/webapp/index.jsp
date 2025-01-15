@@ -10,7 +10,7 @@
 
     <!-- Chart.js -->
     <div class="chart-container">
-        <canvas id="chartjsChart"></canvas>
+        <canvas id="chartjsChart" width="800" height="400"></canvas>
     </div>
 
     <!-- amCharts -->
